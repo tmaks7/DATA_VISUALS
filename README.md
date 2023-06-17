@@ -3,3 +3,5 @@ This repository houses all my data visualization projects using POWER BI and the
 ## INTRODUCTION
 ## PROBLEM STATEMENT
 ## DATA SOURCE
+## DATA ANALYSIS
+## CONCLUSION

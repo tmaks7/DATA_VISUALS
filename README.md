@@ -15,3 +15,4 @@ Through these projects, I aim to demonstrate my ability to
 + Incorporate data modeling techniques to create relationships, hierarchies, and calculated tables for optimized analysis
 + Implement effective data visualization principles, including the use of appropriate chart types, color schemes, and layouts to convey information effectively
 ## CONCLUSION
+I was able to unlock the insights hidden within data, driving informed decision-making and empowering businesses to thrive in a data-centric world. Whether you are interested in a specific industry, data analysis technique, or visualization style, I am confident that you will find examples that resonate with your interests and showcase my abilities as a Power BI professional.

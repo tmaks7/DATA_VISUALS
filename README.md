@@ -18,3 +18,5 @@ Through these projects, I aim to demonstrate my ability to
 + Implement effective data visualization principles, including the use of appropriate chart types, color schemes, and layouts to convey information effectively
 ## CONCLUSION
 I was able to unlock the insights hidden within data, driving informed decision-making and empowering businesses to thrive in a data-centric world.
+
+Thank you for visiting my Power BI portfolio, and I look forward to discussing how I can leverage Power BI to help you transform your data into actionable insights.

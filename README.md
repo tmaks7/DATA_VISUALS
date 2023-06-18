@@ -1,5 +1,7 @@
 # DATA_VISUALS
 This repository houses all my data visualization projects using POWER BI and the data are extracted from different project sites.
+
+I invite you to explore my portfolio and witness firsthand how Power BI has enabled me to unlock the insights hidden within data, driving informed decision-making and empowering businesses to thrive in a data-centric world. Whether you are interested in a specific industry, data analysis technique, or visualization style, I am confident that you will find examples that resonate with your interests and showcase my abilities as a Power BI professional.
 ## INTRODUCTION
 Welcome to my Power BI portfolio! Here, you will find a collection of projects and visualizations that showcase my skills and expertise in utilizing Power BI to analyze and visualize data. With a passion for data-driven insights and a keen eye for effective data storytelling, I have crafted these projects to demonstrate the power and versatility of Power BI in transforming raw data into actionable intelligence.
 

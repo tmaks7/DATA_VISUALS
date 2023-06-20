@@ -6,6 +6,8 @@ I invite you to explore my portfolio and witness firsthand how Power BI has enab
 Welcome to my Power BI portfolio! Here, you will find a collection of projects and visualizations that showcase my skills and expertise in utilizing Power BI to analyze and visualize data. With a passion for data-driven insights and a keen eye for effective data storytelling, I have crafted these projects to demonstrate the power and versatility of Power BI in transforming raw data into actionable intelligence.
 
 In this repository, you will discover a diverse range of dashboards, reports, and interactive visualizations that cover various industries, including finance, marketing, sales, telecoms and more. Each project represents a unique data challenge that I tackled using Power BI's robust features, advanced analytics capabilities, and best practices in data visualization.
+
+For Telecom Customer Churn: Churn data for a fictional Telecommunications company that provides phone and internet services to 7,043 customers in California, and includes details about customer demographics, location, services, and current status.
 ## PROBLEM STATEMENT
 ## DATA SOURCE
 ## DATA ANALYSIS

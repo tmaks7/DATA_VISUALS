@@ -10,9 +10,11 @@ In this repository, you will discover a diverse range of dashboards, reports, an
 ## PROBLEM STATEMENT
 This is to provide insights to each datasets extracted from their various sources. However the companies are all fictional 
 
-For Telecom Customer Churn: Churn data for a fictional Telecommunications company that provides phone and internet services to 7,043 customers in California, and includes details about customer demographics, location, services, and current status.
+For Telecom Customer Churn: 
+>Churn data for a fictional Telecommunications company that provides phone and internet services to 7,043 customers in California, and includes details about customer demographics, location, services, and current status.
 
-For Clife Resort: CLIFE Resort is the owner of several five-star hotels in Nigeria. They've been in the hospitality business for 20 years. CLIFE is losing market share and revenue in the luxury/business hotels sector as a result of strategic actions by competitors and ineffective decision-making by management. CLIFE's managing director desired to incorporate "Business and Data Intelligence" as a strategic step in order to reclaim market share and income.
+For Clife Resort: 
+>CLIFE Resort is the owner of several five-star hotels in Nigeria. They've been in the hospitality business for 20 years. CLIFE is losing market share and revenue in the luxury/business hotels sector as a result of strategic actions by competitors and ineffective decision-making by management. CLIFE's managing director desired to incorporate "Business and Data Intelligence" as a strategic step in order to reclaim market share and income.
 ## DATA SOURCE
 The dataset file for Telecom Customer Churn was extracted from [MAVEN ANALYTICS DATA PLAYGROUND](https://mavenanalytics.io/data-playground?page=2&pageSize=5)
 ## DATA ANALYSIS

@@ -9,7 +9,7 @@ In this repository, you will discover a diverse range of dashboards, reports, an
 
 For Telecom Customer Churn: Churn data for a fictional Telecommunications company that provides phone and internet services to 7,043 customers in California, and includes details about customer demographics, location, services, and current status.
 ## PROBLEM STATEMENT
-
+This is to provide insights to each datasets extracted from their various source 
 ## DATA SOURCE
 The dataset file for Telecom Customer Churn was extracted from [MAVEN ANALYTICS DATA PLAYGROUND](https://mavenanalytics.io/data-playground?page=2&pageSize=5)
 ## DATA ANALYSIS

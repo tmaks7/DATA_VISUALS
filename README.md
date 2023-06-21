@@ -16,7 +16,9 @@ For Telecom Customer Churn:
 For Clife Resort: 
 >CLIFE Resort is the owner of several five-star hotels in Nigeria. They've been in the hospitality business for 20 years. CLIFE is losing market share and revenue in the luxury/business hotels sector as a result of strategic actions by competitors and ineffective decision-making by management. CLIFE's managing director desired to incorporate "Business and Data Intelligence" as a strategic step in order to reclaim market share and income.
 ## DATA SOURCE
-The dataset file for Telecom Customer Churn was extracted from [MAVEN ANALYTICS DATA PLAYGROUND](https://mavenanalytics.io/data-playground?page=2&pageSize=5)
+The dataset file for Telecom Customer Churn was extracted from [MAVEN ANALYTICS DATA PLAYGROUND](https://mavenanalytics.io/data-playground?page=2&pageSize=5) 
+
+The other datasets was outsourced by my facilitator @hisaquadri
 ## DATA ANALYSIS
 Through these projects, I aim to demonstrate my ability to
 
